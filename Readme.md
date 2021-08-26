@@ -1,11 +1,12 @@
 PROJETO HOMELAB
 
-Por: Adriano Baumart
+Por: Adriano Baumart <br>
 Data: 20-08-2021
 
 Este projeto consiste na criação de um HomeLab que consistirá na montagem de um servidor doméstico que hospedará diversos serviços para gerenciamento de informações pessoas, arquivos, além de ambiente isolado para testes e estudo de tecnologias de virtualização, programação, e serviços web.
 
 Algumas soluções que este projeto contemplará:
+
     - Armazenamento de arquivos
     - Gestão de Filmes, Músicas, Livros, Podcasts, Fotos, etc
     - Recursos de automação residencial (Smart House)
