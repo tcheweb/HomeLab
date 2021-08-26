@@ -8,6 +8,7 @@ ESPECIFICAÇÕES TÉCNICAS
     Processador: Xexon E5-2620v2 - 2.6GHz
         - núcleos: 6
         - threads: 12
+        https://ark.intel.com/content/www/br/pt/ark/products/75789/intel-xeon-processor-e5-2620-v2-15m-cache-2-10-ghz.html
     Memória: 4 x 4Gb DDR3 1.333MHz ECC
     Sata 3.0 - 1
     Sata 2.0 - 3
