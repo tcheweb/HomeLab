@@ -21,3 +21,5 @@ A ideia é essencialmente utilizar softwares gratuitos, e sempre que possível, 
 Aqui vou documentar detalhes sobre o ambiente e informações sobre a configuração dos software e os desafios encontrados durante o projeto.
 
 No momento estou em fase de planejamento e em breve começarei a colocar a mão na massa!
+
+Estudar, praticar, testar e implementar!

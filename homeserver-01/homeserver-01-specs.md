@@ -20,10 +20,7 @@ Placa-mãe modelo: **x79**
 
 Discos:  
 * Sistema: **SSD 120Gb**  
-* Dados: **HDD 3,5' - 1Tb**  
-* Backup:  **2x HDD 2,5' - 500Gb**  
-* Imagens ISO: **HDD 3,5 - 250Gb**
+* Dados e ISO : **2x HDD 3,5' - 1Tb**  
+* Backup:  **HDD 2,5' - 500Gb**  
 
 Fonte: **400w**  
-
-
