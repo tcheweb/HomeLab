@@ -19,7 +19,7 @@ Esta lista sofrerá diversas atualizações no decorrer do projeto.
 | Banco de dados| MySQL |
 | Backups       | Duplicati | | Free/OpenSource (LGPL)
 | Versionador   | Git |
-| Certificação  | LetsEncrypt |
+| Certificação  | LetsEncrypt  / certbot|
 | Gráficos e Monitoramento| Grafana/InfluxDB | Free/OperSource (AGPLv3) |
 
 
