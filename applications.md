@@ -18,7 +18,7 @@ Esta lista sofrerá diversas atualizações no decorrer do projeto.
 | Smart House   | HomeAssistant |
 | Banco de dados| MySQL |
 | Backups       | Duplicati | | Free/OpenSource (LGPL)
-| Versionador   | Git |
+| Versionador   | GitLab |
 | Certificação  | LetsEncrypt |
 | Gráficos e Monitoramento| Grafana/InfluxDB | Free/OperSource (AGPLv3) |
 

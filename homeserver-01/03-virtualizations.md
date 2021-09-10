@@ -7,8 +7,12 @@ Lista de Vm`s de produção criadas no servidor Proxmox
 - CPU: 2
 - Memória: 2Gb
 - SO: ubuntu server 20.04 LTS
-- Uso: Webserver
-    - Apache
+- Uso: 
+    - Webserver
+        - Apache
+        - PHP 7.4
+    - Home Assistant
+        
 
 ## dbserver-01 ##
 - Proxmox Id: 101

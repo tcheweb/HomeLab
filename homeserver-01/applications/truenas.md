@@ -1,36 +1,3 @@
-# CONFIGURAÇÃO DO PROXMOX #
-
-Nome Servidor: homeserver-01  
-homeserver-01.homelab.local
-IP: 192.168.0.10:8006
-Gateway: 192.168.0.1
-
-## Padrões de ID para VM´s ##
-- 100-199 - VM´s de Produção  
-- 200-299 - VM´s de Teste
-
-
-
-
-
-
-
-
-
-## Atualizar o sistema
-Após instalação do Proxmox o primeiro passo é atualizar os pacotes e atualizar o sistema.
-> `apt update`  
-`apt upgrade`
-
-## Adicionar Imagens ISO ##
-
-Conectar ao servidor via FTP e salvar as imagens ISO em `/var/lib/vz/template/iso`
-
-
-## Adicionar Discos ##
-
-
-
 
 ## Como virtualizar o Truenas no Proxmox
 Este tutorial ensina como instalar discos físicos diretamente na VM do TrueNAS, mantendo a performance da aplicação.
