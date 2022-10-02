@@ -19,4 +19,4 @@ Discs:
 * Data & ISO : **2x HDD 3,5' - 1Tb**  
 * Backup:  **HDD 2,5' - 500Gb**  
 
-Power supply: **400w**  
+Power supply: **400w**

@@ -1,6 +1,6 @@
 # PROXMOX Configuration #
 
-Version: **7.0-8**
+Version: **7.2-1**
 
 Hostname: **homeserver-01**   
 IP: **192.168.0.10:8006**  

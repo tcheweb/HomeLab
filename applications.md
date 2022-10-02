@@ -10,6 +10,7 @@ Esta lista sofrerá diversas atualizações no decorrer do projeto.
 |---------------|-------------|------------------------|-------------------|
 | Virtualização | Proxmox     | Recommended Hardware: Intel EMT64 or AMD64 with Intel VT/AMD-V CPU flag. Memory, minimum 2 GB for OS and Proxmox VE services. Plus designated memory for guests. Fast and redundant storage, best results with SSD disks. 
 | Armazenamento | TrueNAS     | 8Gb Ram                |                   |
+| Dashboard     | Heimdall
 | Media Server  | Jellyfin    |
 | Nuvem         | NextCloud   |
 | Automação     | Node Red    |
@@ -28,7 +29,7 @@ Esta lista sofrerá diversas atualizações no decorrer do projeto.
 | Gráficos e Monitoramento| Grafana/InfluxDB | Free/OperSource (AGPLv3) |
 
 
-HOMELAB
+## HOMELAB ##
 
 - Kali Linux - Ethical Hacking
 - Windows
@@ -39,25 +40,38 @@ HOMELAB
 - BI
 
 
-SOLUÇÕES PARA PESQUISAR
+## SOLUÇÕES PARA PESQUISAR ##
+
+*Dashboards
+- Heimdall
+- Organizr
+- Homer
+
+*Docker Containers  
+- Portainer.io   
+- Rancher
+
+*Automação  
+- MQTT 
+- Nodered
+
+*Câmera Software
+- BlueIris
+- Motioneye
+- Zoneminder
+
 
 - Rotina de backup da VPS para servidor local.  
 - OpenMediaVault  
-- heindal, mostra os docker containers.  
-- portainer.io  
-- BlueIris - cameras  
-- motioneye - cameras
-- Rancher - dock containers? 
 - plex - 
 - unifi network
 - HedgeDoc - Servidor de Markdown
+- Software de Camera
 
 
 SERVIÇOS
 
-- [Dynu](https://www.dynu.com/) - Serviço de DNS Dinâmico
 - CloudFlare - Serviço de DNS.
-
 
 COLEÇÃO DE SOFTWARES FREE E OPENSOURCE
 

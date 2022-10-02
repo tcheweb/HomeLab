@@ -3,7 +3,13 @@
 ## Durante a Instalação ##
 
 1. configurar IP Fixo**
-    subnet: 192.168.0.0/32
+    subnet: 192.168.0.0/24
+
+    DNS
+        187.44.80.2
+        187.44.90.2
+
+
 
 2. Habilitar SSH Server**
 
